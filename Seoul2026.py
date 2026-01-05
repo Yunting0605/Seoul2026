@@ -7,12 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Xo5Nbc1Tqoc5okSTFjtQ5-Leh7huLzC8
 """
 
-pip install streamlit pandas requests
 
-import streamlit as st
-import pandas as pd
-import requests
-from datetime import datetime
 
 # 設定網頁
 st.set_page_config(page_title="首爾旅遊助手 Pro", layout="wide", page_icon="🇰🇷")
